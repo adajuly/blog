@@ -10,5 +10,5 @@
 
 ### Javascript
 
-1. 
+1. [如何快速获取集合指定位置的元素](https://github.com/adajuly/blog/issues/2)
 
