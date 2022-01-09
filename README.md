@@ -6,7 +6,7 @@
 ### CSS
 
 1. [scrollbar-gutter CSS 属性](https://github.com/adajuly/blog/issues/1)
-
+2. [column-count 属性介绍](https://github.com/adajuly/blog/issues/5)
 
 ### Javascript
 
